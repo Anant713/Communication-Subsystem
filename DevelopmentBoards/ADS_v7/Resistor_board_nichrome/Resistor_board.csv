@@ -1,0 +1,4 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"J1","1","Conn_01x06_Pin","","","","Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Horizontal","~"
+"SW1","1","SW_SPDT_312","","","","D2F-L_switch:D2F-L_OMR","~"
+"TP1,TP2,TP3,TP4","4","5021","","","","5021:TP_5021",""

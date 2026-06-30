@@ -1,0 +1,12 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "TPS25200") (type "KiCad") (uri "${KIPRJMOD}/Libraries/ul_TPS25200QDRVTQ1/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "PMOS_ZXMP6A17") (type "KiCad") (uri "${KIPRJMOD}/Libraries/ul_ZXMP6A17GQTA/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "NMOS_sanket") (type "KiCad") (uri "${KIPRJMOD}/Libraries/BUK9Y21_40E_115/KiCADv6/NMOS_sanket.pretty") (options "") (descr ""))
+	(lib (name "KiCADv6") (type "KiCad") (uri "${KIPRJMOD}/Libraries/SN74LV1T00DCKR/KiCADv6") (options "") (descr ""))
+	(lib (name "Inductor_SMD_Wurth") (type "KiCad") (uri "${KIPRJMOD}/Libraries/KiCad_WE-XHMI (rev25a)/footprints/Inductor_SMD_Wurth.pretty") (options "") (descr ""))
+	(lib (name "NAND_sanket") (type "KiCad") (uri "${KIPRJMOD}/Libraries/SN74LV1T00DCKR/KiCADv6/NAND_sanket.pretty") (options "") (descr ""))
+	(lib (name "Diode_in_TP5420") (type "KiCad") (uri "${KIPRJMOD}/Libraries/MBRS340/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "Schmitt_trigger_ADS") (type "KiCad") (uri "${KIPRJMOD}/Libraries/SN74LVC1G17QDCKRQ1/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "TPS5420") (type "KiCad") (uri "${KIPRJMOD}/Libraries/TPS5420DR/KiCADv6/footprints.pretty") (options "") (descr ""))
+)

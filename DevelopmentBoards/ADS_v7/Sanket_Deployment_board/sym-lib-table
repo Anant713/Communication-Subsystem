@@ -1,0 +1,9 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "PMOS_ZXMP6A17") (type "KiCad") (uri "${KIPRJMOD}/Libraries/ul_ZXMP6A17GQTA/KiCADv6/2025-07-07_19-31-25.kicad_sym") (options "") (descr ""))
+	(lib (name "NMOS_ADS") (type "KiCad") (uri "${KIPRJMOD}/Libraries/BUK9Y21_40E_115/KiCADv6/2026-05-24_22-40-08.kicad_sym") (options "") (descr ""))
+	(lib (name "Inductor_Wurth_WE-XHMI") (type "KiCad") (uri "${KIPRJMOD}/Libraries/KiCad_WE-XHMI (rev25a)/symbols/Inductor_Wurth_WE-XHMI.kicad_sym") (options "") (descr ""))
+	(lib (name "NAND_ADS") (type "KiCad") (uri "${KIPRJMOD}/Libraries/SN74LV1T00DCKR/KiCADv6/2026-05-24_22-56-17.kicad_sym") (options "") (descr ""))
+	(lib (name "Schmitt_trigger_ADS") (type "KiCad") (uri "${KIPRJMOD}/Libraries/SN74LVC1G17QDCKRQ1/KiCADv6/2026-05-25_22-58-14.kicad_sym") (options "") (descr ""))
+	(lib (name "TPS5420") (type "KiCad") (uri "${KIPRJMOD}/Libraries/TPS5420DR/KiCADv6/2026-05-25_23-08-00.kicad_sym") (options "") (descr ""))
+)
