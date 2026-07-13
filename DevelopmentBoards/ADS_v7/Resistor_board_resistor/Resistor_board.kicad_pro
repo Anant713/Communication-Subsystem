@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 1.0,
+          "height": 2.0,
+          "width": 2.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -715,16 +715,16 @@
       {
         "filename": "Resistor_board.kicad_sch",
         "name": "Resistor_board",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "6baacd47-c0cd-4702-971b-fcb8e56d847c"
       }
     ],
-    "used_designators": "",
+    "used_designators": "H1-4,R1-2",
     "variants": []
   },
   "sheets": [
     [
       "6baacd47-c0cd-4702-971b-fcb8e56d847c",
-      "Root"
+      "Resistor_board"
     ]
   ],
   "text_variables": {},

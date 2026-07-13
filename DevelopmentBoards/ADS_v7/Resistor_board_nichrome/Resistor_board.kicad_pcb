@@ -2553,14 +2553,6 @@
 		(uuid "0546555e-f4a3-4059-b359-1a273bed5e7b")
 	)
 	(segment
-		(start 114.8 55.4)
-		(end 114.54 55.66)
-		(width 2)
-		(layer "F.Cu")
-		(net "/BurnWireIN")
-		(uuid "33780431-400e-4792-9a13-ffa3f97713b6")
-	)
-	(segment
 		(start 123.8 55.18)
 		(end 115.01 55.18)
 		(width 2)
@@ -2569,28 +2561,12 @@
 		(uuid "52451c56-f561-4cbd-b8fc-9a2631b10974")
 	)
 	(segment
-		(start 114.21 54.81)
-		(end 114.43 55.03)
-		(width 2)
-		(layer "F.Cu")
-		(net "/BurnWireIN")
-		(uuid "6ef78004-e6ed-4138-b4b4-319caa84976c")
-	)
-	(segment
 		(start 128.46 57.3)
 		(end 125.92 57.3)
 		(width 2)
 		(layer "F.Cu")
 		(net "/BurnWireIN")
 		(uuid "7e146254-697d-4f3e-8065-a86160b598df")
-	)
-	(segment
-		(start 114.8 55.39)
-		(end 114.8 55.4)
-		(width 2)
-		(layer "F.Cu")
-		(net "/BurnWireIN")
-		(uuid "a7d06cd0-2a15-4b05-8fab-a1f7f5aea32c")
 	)
 	(segment
 		(start 114.43 55.03)
@@ -2615,14 +2591,6 @@
 		(layer "F.Cu")
 		(net "/BurnWireIN")
 		(uuid "be0c1b30-1d59-4a77-b8d6-a46af23826d0")
-	)
-	(segment
-		(start 115.01 55.18)
-		(end 114.8 55.39)
-		(width 2)
-		(layer "F.Cu")
-		(net "/BurnWireIN")
-		(uuid "d0aff11a-1a08-4631-8bfd-7f5afee3fdf5")
 	)
 	(segment
 		(start 116.58 55.18)
